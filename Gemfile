@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Voting Gem
+gem 'acts_as_votable', '~> 0.10.0'
 #Bootstrap, YEAH!
 gem 'bootstrap-sass'
 # Devise gem for users.
