@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#Bootstrap, YEAH!
+gem 'bootstrap-sass'
 # Devise gem for users.
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
